@@ -17,10 +17,12 @@ How It Works:
 User Submission:
 
 Users enter their Python code into the provided text input area on the Streamlit interface.
+
 Code Analysis:
 
 The application sends the submitted code to the OpenAI API for review.
 The API processes the code, checking for bugs, errors, and possible improvements.
+
 Feedback Generation:
 
 The application receives the analysis results from the OpenAI API.
